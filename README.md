@@ -6,3 +6,5 @@ Additionally high levels of anxiety, a characteristic of bold behaviour, and exp
 associated with polymorphisms in SERT. Here we tested for polymorphisms in DRD4 and SERT in the Seychelles 
 warbler (Acrocephalus sechellensis) population on Cousin Island, Seychelles, and then investigated correlations 
 between personality and polymorphisms in these genes.
+
+ "This project is licensed under the terms of the MIT license."
